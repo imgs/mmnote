@@ -1,4 +1,5 @@
-#### 基于Cloudflare Workers实现的Markdown在线笔记  
+### 基于Cloudflare Workers实现的Markdown在线笔记  
+#### 演示页面：https://mmnote.com/demo  (请不要修改或删除里面的内容)  
 因KV按写入和读取次数计费，建议自行部署至Workers使用  
 1、将代码复制粘贴至Workers & Pages中并命名,如mmnote，  
 2、在Workers KV中建立NOTES_KV并与mmnote绑定即可使用，  
